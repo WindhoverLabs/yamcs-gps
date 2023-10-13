@@ -31,7 +31,7 @@
  *
  *****************************************************************************/
 
-package com.windhoverlabs.yamcs.stats;
+package com.windhoverlabs.yamcs.gps;
 
 import com.csvreader.CsvWriter;
 import java.io.FileWriter;

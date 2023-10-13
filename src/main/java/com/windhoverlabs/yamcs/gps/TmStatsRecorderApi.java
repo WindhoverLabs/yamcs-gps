@@ -1,4 +1,4 @@
-package com.windhoverlabs.yamcs.stats;
+package com.windhoverlabs.yamcs.gps;
 
 // This has to be inside of org.yamcs.http.api in order to access MdbApi.verifyParameterId
 import com.windhoverlabs.yamcs.stats.api.AbstractTmStatsRecorderApi;

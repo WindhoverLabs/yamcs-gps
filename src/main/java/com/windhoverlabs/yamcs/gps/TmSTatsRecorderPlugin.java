@@ -1,4 +1,4 @@
-package com.windhoverlabs.yamcs.stats;
+package com.windhoverlabs.yamcs.gps;
 
 import java.io.IOException;
 import java.io.InputStream;
